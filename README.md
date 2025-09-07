@@ -67,7 +67,7 @@ Key highlights:
 ## 🚀 Deployment
 The WanderLust project is deployed on **Render**, connected with **MongoDB Atlas**.  
 
-**Live Application:** [WanderLust Project](#)  
+**Live Application:** [WanderLust Project](https://wanderlust-travel-listings.onrender.com/listings)  
 
 ---
 
