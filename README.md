@@ -72,7 +72,7 @@ The WanderLust project is deployed on **Render**, connected with **MongoDB Atlas
 ---
 
 ## ✍️ Authors
-- @resmit-dholariya  
+- @Shivam_mahalle 
 
 This project demonstrates my ability to build **end-to-end full-stack applications**, combining an engaging front-end with a secure, efficient back-end and database integration.  
 
